@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    border: 3px ridge #201b2f;
+}
+
+.laryclass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #b38a75;
+}
+.laryaudio{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin: 0;
+    margin-top: -52vh;
+    margin-right: 32vh;
+}
+.laryaudio2{
+    display: flex;
+    justify-content: right;
+    align-items: right;
+    margin: 0;
+    margin-top: -15vh;
+    margin-right: 32vh;
+}
+.descargar1{
+    margin-left: 75%;
+    margin-top: 7%;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif; 
+    letter-spacing: 0.0001vh;
+    display:flex;
+    background-color: #b38a75;
+    color: #00a705;
+    text-align: center;
+    width: 4;
+    height: 0;
+    justify-content: center; 
+}
