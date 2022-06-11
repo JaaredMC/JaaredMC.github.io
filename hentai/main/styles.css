@@ -1,0 +1,103 @@
+/* https://www.colourlovers.com/palette/623761/Walking_Away PALETTE */
+/* https://fonts.google.com/specimen/Rubik FONT */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+.anime{
+    width: 200px;
+    height: 180px;
+}
+
+header{
+    display: flex;
+    width: auto;
+    background-color: #B90504;
+    color: white;
+    justify-content: space-between;
+}
+
+h1{
+    height: auto;
+    width: auto;
+    margin-top: 70px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.nav{
+    display: inline;
+    justify-content: right;
+    align-items: right;
+    margin-top: 70px;
+    font-size: 25px;
+    word-spacing: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
+
+.anime{
+    border-start-end-radius: 20px;
+    border-bottom-right-radius: 20px ;
+}
+
+.parte1{
+    width: 1100px;
+    height: auto;
+    margin-left: 120px;
+    margin-top: 100px;
+    text-transform:uppercase;  
+    text-align: center;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #B90504;
+}
+
+.rias{
+    display: flex;
+    width: 400px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 535px;
+}
+
+.parte2{
+    text-align: center;
+    margin-left: 900px;
+    margin-top: -250px;
+    font-size: 40px;
+}
+
+.donation{
+    color: #B90504;
+}
+
+.youtube{
+    width: 40px;
+}
+
+.telegram{
+    width: 40px;
+}
+
+.redes{
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
