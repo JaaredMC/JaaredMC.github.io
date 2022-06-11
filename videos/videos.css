@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Tiro Devanagari Hindi', serif;
+}
+
+body{
+    background: black;
+    color: white;
+}
+
+header{
+    display: flex;
+    width: auto;
+    height: 100px;
+    background-color: #B90504;
+    color: white;
+    justify-content: space-between;
+}
+
+h1{
+    height: auto;
+    width: auto;
+    margin-top: 35px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 15px;
+}
+
+.nav{
+    display: inline;
+    justify-content: right;
+    align-items: right;
+    margin-top: 35px;
+    font-size: 25px;
+    word-spacing: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-right: 20px;
+}
